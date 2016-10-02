@@ -41,7 +41,9 @@ sass:
 #twitter:            username
 #facebook:           username
 github:             Data-drone
-stackoverflow:      1687633/killersnail   # from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:      1687633/killersnail   
+# from a "http://stackoverflow.com/users/123456/username" link
+kaggle: 			brianlaw
 #linkedin:          username
 #xing:              username
 #instagram:          username
