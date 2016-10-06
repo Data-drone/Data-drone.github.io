@@ -15,7 +15,7 @@ Or as I like to think of it, how to transform the garbage you are given as an an
 One task I find myself doing a lot is simply bulk extraction of data from csv files.
 CSVs take space and they are slow to open. So I like to bulk convert inputs into rds files to make my life easier. So here we go:
 
-{% highlight css %}
+{% highlight r %}
 
 # import libs
 require(readr)
