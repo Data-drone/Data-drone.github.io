@@ -3,7 +3,7 @@ layout: post
 title:  "Common Data Munging Tasks"
 date:   2016-10-02
 excerpt: "Dealing with data"
-project: true
+project: false
 tag:
 - R
 - data munging
