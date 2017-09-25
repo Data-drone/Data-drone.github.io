@@ -9,7 +9,7 @@ comments: true
 
 ## Prelude
 
-[Part 2]{{ site.baseurl }}{% post_url O'Reilly-AI-Conference-Part-2 %}
+[Part 2]({{ site.baseurl }}{% post_url O'Reilly-AI-Conference-Part-2 %})
 As a Data Scientist, visiting Silicon Valley has always seemed like something I had to cross off the bucket list. 
 What better way than to attend the O'Reilly AI Conference to see where the state of the art was at.
 I signed up for the Monday tutorials as well and in this post I will cover some of my experienced with those.
