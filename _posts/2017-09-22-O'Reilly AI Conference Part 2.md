@@ -9,7 +9,6 @@ comments: true
 
 ## Prelude
 
-[Part 1]({{ site.baseurl }}{% post_url O'Reilly-AI-Conference %})
 Day 2 was the first full day of seminars. I attended the speed networking session in the morning as well. 
 As a first time speed networker I found it a very unique experience like giving an elevator pitch.
 For those who have never tried, you line up a two rows, everyone with a partner. First one person speaks for a minute then the other. 
