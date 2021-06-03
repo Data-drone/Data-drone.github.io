@@ -1,7 +1,7 @@
 # Site
 title:              Data Drone
 bio:                'Another Data Science Blog'
-description:        "The musings of a Data Scientist"
+description:        "The musings of a ML Engineer"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
